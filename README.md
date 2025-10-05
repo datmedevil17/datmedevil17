@@ -137,6 +137,8 @@ fn main() {
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?datmedevil17=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <em>💻 "Code is poetry written in logic" 💻</em>
