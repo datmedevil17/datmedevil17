@@ -120,25 +120,13 @@ fn main() {
   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" width="400"/>
 </p>
 
-## 📊 GitHub Analytics
+## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datmedevil17&show_icons=true&count_private=true&theme=algolia&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datmedevil17&theme=algolia&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmedevil17&theme=algolia&hide_border=true&layout=compact&langs_count=8" width="50%" />
-</p>
-
-## 💡 Random Dev Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datmedevil17/datmedevil17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datmedevil17/datmedevil17/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/datmedevil17/datmedevil17/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-
-<p align="center">
-  <em>💻 "Code is poetry written in logic" 💻</em>
-</p>
