@@ -128,22 +128,7 @@ fn main() {
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/datmedevil17/datmedevil17/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datmedevil17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datmedevil17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmedevil17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datmedevil17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJsMjBnMm9wcWRleXFuMXdmNmRnenNyNXIxbHF2Y2JnYTk0OW5taiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif" width="400" alt="Hacker typing" />
